@@ -1,0 +1,8 @@
+{
+        "domain": "Midea AC",
+        "name": "Midea AC",
+        "documentation": "https://github.com/zidkozidic/midea",
+        "requirements": [],
+        "dependencies": [],
+        "codeowners": []
+}

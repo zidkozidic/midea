@@ -1,5 +1,5 @@
 ## No more development
-Unfortunately I do not have access to my Midea Air Conditioners as I have relocated to a new house. This means that I cannot reliably support this library due to not being able to test it with real hardware anymore.
+Test for import to HACS
 
 # midea-ac-py 
 

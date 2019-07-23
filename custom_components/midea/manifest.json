@@ -1,6 +1,6 @@
 {
-        "domain": "climate",
-        "name": "Midea AC",
+        "domain": "midea",
+        "name": "midea",
         "documentation": "https://github.com/zidkozidic/midea",
         "requirements": [],
         "dependencies": [],
